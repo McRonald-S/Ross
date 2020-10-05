@@ -1,1 +1,103 @@
-<mxfile host="app.diagrams.net" modified="2020-10-05T03:31:25.233Z" agent="5.0 (Windows)" version="13.7.7" etag="gcndp71VuV-RZSL_8cFf" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">7VhZc9MwEP41Hp5gfBQnecRp0wKhU2ihw6NiK7aI7DWynINfzyqWYzsOOYD0yDQv0a43K2m/b4/YcPrx/FKQNPoEAeWGbQZzwzk3bNuybQe/lGZRaLq9bqEIBQu0UaW4Zb+oVppam7OAZg1DCcAlS5tKH5KE+rKhI0LArGk2Bt7cNSUhbSlufcLb2nsWyEjfwu5U+ivKwqjc2XJ7xZOYlMb6JllEApjVVM6F4fQFgCxW8bxPuQpeGZf794t7Ppy4lx8+Zz/JV+/j3fW314WzwSE/WV1B0ET+X9d24XpKeK7jpe8qF2UABeRJQJUT03C8SMYclxYuf1ApFxpwkktAFQgZQQgJ4UOAVNuNIZHazFIyTYJ3CliURxz8SaEaMM71Hihp+y5KmRQwWWGnHKyAUMacjCj3iD8JlwftAweBjxJIqHIVIBn0XarDXVRab8/YagwyyIVPt9jpbJFEhHSbP7ewU+er8VQjd0khplIs0EBQTiSbNslMdE6EK7sKd1xo6A+ggdOiwZDEqcp6oFnySuJqBmKyhRsKl1nEJL1NyTJAMywnTb7UeYBX9UJOskyjuAPkw0CaUiHpfGtYy6euzu2yuGlxVlUKq0z/qFYlzswjAXHWAuI7Fs+XlPyXlHT3TMmyY+3MSU2Wkhh7p6j2dAMskTUTGI8zPNg6dVYb/j2b3rbYdA0tMu3G41nT7ZHI1DmMS9aT55L7hxbhcgyDNxK4CtUq5XkYIlnQXWI4g3btiiAe5dnudtHAWDFoQGLGVbyuKJ9SyXyyoakQzkLc99xHuKnYTB7ckiUhSm4l3S3JivX3iM2m02w2K7nebcwN3aZ7rG7TaWF6g+gV0NkmX+J7Yh3fsddA6D12y+/uU6SfdQl+8I5fVtPdLd/as0xr9phvHPw0CPT0p4DeXjPlyxhwHIbZpzYIlCes8cnL+ag9CYxykSwHAcjlyySwbRKwNzWhB50EykJYA/ULTQlDMM3hKc4B6//8z5zHngPKStGEgKuY2maRYSeGwfos5ljHwwDF6k1tUQqr993OxW8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-05T04:07:48.354Z" agent="5.0 (Windows)" etag="uqyRtF6UDCACk56jrqag" version="13.7.7" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1021" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="C87iaD2Z_McxgShhaYM4-0" value="&#xa;&lt;p&gt;&lt;b&gt;&lt;span&gt;El proceso administrativo es un conjunto de funciones &#xa;administrativas dentro de una organización u empresa que buscan &#xa;aprovechar al máximo los recursos existentes de forma correcta, rápida y&#xa; eficaz.&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&#xa;&#xa;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="150" width="370" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="C87iaD2Z_McxgShhaYM4-2" value="Proceso Administrativo" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="270" y="40" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C87iaD2Z_McxgShhaYM4-3" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C87iaD2Z_McxgShhaYM4-2" target="C87iaD2Z_McxgShhaYM4-0">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="150" as="sourcePoint" />
+            <mxPoint x="414" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C87iaD2Z_McxgShhaYM4-5" value="&lt;p style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;El proceso administrativo fue detalladopor Henry Fayol, ingeniero francés, que describió sus fases y característicasen su obra: “Administración industrial y general” (1916).&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=#ffffff;fontSize=14;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="640" y="140" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="C87iaD2Z_McxgShhaYM4-6" value="" style="endArrow=classic;html=1;fontSize=14;fontColor=#000000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C87iaD2Z_McxgShhaYM4-2" target="C87iaD2Z_McxgShhaYM4-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="140" as="sourcePoint" />
+            <mxPoint x="440" y="90" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C87iaD2Z_McxgShhaYM4-7" value="" style="endArrow=classic;html=1;fontSize=14;fontColor=#000000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.493;entryY=-0.086;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C87iaD2Z_McxgShhaYM4-0" target="C87iaD2Z_McxgShhaYM4-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="320" as="sourcePoint" />
+            <mxPoint x="260" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C87iaD2Z_McxgShhaYM4-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C87iaD2Z_McxgShhaYM4-8" target="C87iaD2Z_McxgShhaYM4-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C87iaD2Z_McxgShhaYM4-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C87iaD2Z_McxgShhaYM4-8" target="C87iaD2Z_McxgShhaYM4-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="245" y="510" />
+              <mxPoint x="300" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C87iaD2Z_McxgShhaYM4-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C87iaD2Z_McxgShhaYM4-8" target="C87iaD2Z_McxgShhaYM4-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C87iaD2Z_McxgShhaYM4-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C87iaD2Z_McxgShhaYM4-8" target="C87iaD2Z_McxgShhaYM4-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C87iaD2Z_McxgShhaYM4-8" value="&lt;p&gt;&lt;span&gt;El proceso administrativo&amp;nbsp;&lt;strong&gt;&lt;span&gt;se compone de cuatro etapas elementales&lt;/span&gt;&lt;/strong&gt;&lt;b&gt;:&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ffffff;fontSize=14;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="400" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="C87iaD2Z_McxgShhaYM4-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C87iaD2Z_McxgShhaYM4-9" target="C87iaD2Z_McxgShhaYM4-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C87iaD2Z_McxgShhaYM4-9" value="Planeacion" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=#ffffff;fontSize=14;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C87iaD2Z_McxgShhaYM4-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C87iaD2Z_McxgShhaYM4-10" target="C87iaD2Z_McxgShhaYM4-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C87iaD2Z_McxgShhaYM4-10" value="Organizacion" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=#ffffff;fontSize=14;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C87iaD2Z_McxgShhaYM4-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C87iaD2Z_McxgShhaYM4-12" target="C87iaD2Z_McxgShhaYM4-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="630" />
+              <mxPoint x="570" y="630" />
+              <mxPoint x="570" y="910" />
+              <mxPoint x="395" y="910" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C87iaD2Z_McxgShhaYM4-12" value="Ejecucion" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=#ffffff;fontSize=14;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C87iaD2Z_McxgShhaYM4-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C87iaD2Z_McxgShhaYM4-13" target="C87iaD2Z_McxgShhaYM4-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C87iaD2Z_McxgShhaYM4-13" value="Control" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=#ffffff;fontSize=14;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="660" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C87iaD2Z_McxgShhaYM4-20" value="&lt;span class=&quot;nje5zd&quot;&gt;&lt;span style=&quot;font-size: 12.0pt ; line-height: 107%&quot;&gt;La planeación es la primera etapa que debe ejercer el cuerpo&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;nje5zd&quot;&gt;&lt;span style=&quot;font-size: 12.0pt ; line-height: 107%&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span class=&quot;nje5zd&quot;&gt;&lt;span style=&quot;font-size: 12.0pt ; line-height: 107%&quot;&gt;administrativo de una empresa. Aquí es donde serán previstos los objetivos y&lt;br&gt;metas que deberá cumplir la empresa y los métodos a llevar a cabo.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;fontSize=14;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry y="670" width="270" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="C87iaD2Z_McxgShhaYM4-22" value="&lt;span class=&quot;nje5zd&quot;&gt;&lt;span style=&quot;font-size: 12.0pt ; line-height: 107%&quot;&gt;La finalidad de la organización es asignar un objetivo a cada área de la&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;nje5zd&quot;&gt;&lt;span style=&quot;font-size: 12.0pt ; line-height: 107%&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span class=&quot;nje5zd&quot;&gt;&lt;span style=&quot;font-size: 12.0pt ; line-height: 107%&quot;&gt;empresa para que pueda ser cumplido con el mínimo de gastos y con un grado de&lt;br&gt;satisfacción máximo en cada empleado.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;fontSize=14;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="290" y="695" width="270" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="C87iaD2Z_McxgShhaYM4-23" value="&lt;span class=&quot;nje5zd&quot;&gt;En la ejecución se busca dar el primer&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;nje5zd&quot;&gt;&lt;/span&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span class=&quot;nje5zd&quot;&gt;paso en las actividades designadas a los grupos de trabajo para que sigan&lt;br&gt;realizando esas actividades de manera periódica y eficaz&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;fontSize=14;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="950" width="290" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="C87iaD2Z_McxgShhaYM4-26" value="&lt;span class=&quot;nje5zd&quot;&gt;La función de control tiene el papel de&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;nje5zd&quot;&gt;&lt;/span&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span class=&quot;nje5zd&quot;&gt;garantizar que la empresa esté encaminada hacia el rumbo del éxito. Si bien&lt;br&gt;cada función puede ser realizada al pie de la letra, eso no garantizará que la&lt;br&gt;entidad se incline hacia un camino económico positivo.&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;fontSize=14;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="580" y="670" width="230" height="260" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
